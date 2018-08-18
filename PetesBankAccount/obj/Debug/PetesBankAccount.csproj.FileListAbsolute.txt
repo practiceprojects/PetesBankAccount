@@ -1,0 +1,7 @@
+c:\users\wecancodeit\source\repos\PetesBankAccount\PetesBankAccount\bin\Debug\PetesBankAccount.exe.config
+c:\users\wecancodeit\source\repos\PetesBankAccount\PetesBankAccount\bin\Debug\PetesBankAccount.exe
+c:\users\wecancodeit\source\repos\PetesBankAccount\PetesBankAccount\bin\Debug\PetesBankAccount.pdb
+c:\users\wecancodeit\source\repos\PetesBankAccount\PetesBankAccount\obj\Debug\PetesBankAccount.csprojAssemblyReference.cache
+c:\users\wecancodeit\source\repos\PetesBankAccount\PetesBankAccount\obj\Debug\PetesBankAccount.csproj.CoreCompileInputs.cache
+c:\users\wecancodeit\source\repos\PetesBankAccount\PetesBankAccount\obj\Debug\PetesBankAccount.exe
+c:\users\wecancodeit\source\repos\PetesBankAccount\PetesBankAccount\obj\Debug\PetesBankAccount.pdb
